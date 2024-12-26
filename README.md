@@ -2,7 +2,7 @@
 <p>This repository contains a basic program written in C++ that demonstrates the use of dynamic memory allocation using `malloc()` and `free()` functions. The program allows users to store and display a list of IDs.</p> <br>
 
 <h2>What is malloc?</h2>
-<pre><code>malloc()</code>(memory allocation) is a function in C and C++ that dynamically allocates a specified amount of memory on the heap at runtime and returns a pointer to it. It is used when the required memory size is not known at compile time, allowing flexibility in managing data. The allocated memory must be freed using <code>free()</code> to avoid memory leaks.</pre>
+<p><code>malloc()</code>(memory allocation) is a function in C and C++ that dynamically allocates a specified amount of memory on the heap at runtime and returns a pointer to it. It is used when the required memory size is not known at compile time, allowing flexibility in managing data. The allocated memory must be freed using <code>free()</code> to avoid memory leaks.</p>
 
 <h3>Features</h3>
 <pre>- Dynamically allocates memory for storing IDs using `malloc`.
